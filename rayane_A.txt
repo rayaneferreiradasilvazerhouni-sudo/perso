@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 # Tp git dépôt modif du t
 #dehmogcvil
+=======
+# Tp git dépôt distant
+
+#ajout par RB
+>>>>>>> 4fa36b4a819b6b3d469c2ddeb9ebc3aa7ba5ca7c
+#ajout de yassine
